@@ -1,0 +1,13 @@
+body{
+    background: url(./gm\ image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h3{
+    color:greenyellow;
+}
+li{
+    color:rgb(126, 161, 20);  
+    font-size: x-large;
+    font-weight: 500;
+}
